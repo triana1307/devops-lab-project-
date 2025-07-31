@@ -1,0 +1,11 @@
+Navigasi direktori: cd, ls, pwd, tree
+
+File & direktori: touch, mkdir, cp, mv, rm
+
+Permission: chmod, chown
+
+Pengguna & proses: whoami, ps, top, htop
+
+Networking: ip a, ping, netstat, ss, curl
+
+Paket: apt, dpkg
